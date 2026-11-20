@@ -1,0 +1,122 @@
+{
+  "meta": { "lang": "gu", "dir": "ltr", "name": "ગુજરાતી" },
+  "nav": {
+    "home": "હોમ", "about": "પરિચય", "education": "શિક્ષણ",
+    "skills": "કૌશલ્ય", "projects": "પ્રોજેક્ટ", "resume": "રેઝ્યૂમે",
+    "contact": "સંપર્ક", "theme_dark": "ડાર્ક મોડ", "theme_light": "લાઇટ મોડ"
+  },
+  "hero": {
+    "badge": "ઇન્ટર્નશિપ અને સહયોગ માટે ઉપલબ્ધ",
+    "greeting": "નમસ્તે દુનિયા!",
+    "typing_texts": [
+      "ત્રીજા વર્ષના BCA વિદ્યાર્થી",
+      "ભવિષ્યના ફુલ સ્ટેક ડેવલપર",
+      "Python અને AI શીખી રહ્યો છું",
+      "ઉત્સાહી પ્રોગ્રામર",
+      "હંમેશા કંઈક બનાવી રહ્યો છું"
+    ],
+    "description": "પાલનપુર, ગુજરાતથી એક ઉત્સાહી BCA વિદ્યાર્થી, જે સ્વચ્છ કોડ લખે છે અને ડિજિટલ અનુભવ બનાવે છે.",
+    "tagline_1": "હંમેશા શીખીએ", "tagline_2": "હંમેશા બનાવીએ", "tagline_3": "હંમેશા આગળ વધીએ",
+    "btn_resume": "રેઝ્યૂમે ડાઉનલોડ કરો", "btn_projects": "પ્રોજેક્ટ જુઓ",
+    "btn_contact": "સંપર્ક કરો", "scroll_text": "નીચે સ્ક્રોલ કરો"
+  },
+  "stats": {
+    "languages": "ભાષાઓ શીખી રહ્યો છું", "projects": "પ્રોજેક્ટ બનાવ્યા",
+    "year": "વર્ષ BCA વિદ્યાર્થી", "goals": "ભવિષ્યના લક્ષ્યો"
+  },
+  "about": {
+    "section_tag": "મારા વિશે", "section_title": "હું કોણ", "section_title_highlight": "છું?",
+    "section_subtitle": "ડિજિટલ દુનિયામાં નિપુણતા મેળવવાની સફર પર એક ઉત્સાહી પ્રોગ્રામર",
+    "intro": "વિચારોને ડિજિટલ વાસ્તવિકતામાં ફેરવવું",
+    "desc_1": "નમસ્તે! હું ધ્રુવ પ્રજાપતિ છું, શ્રીમતી બી. કે. મહેતા IT સેન્ટર, પાલનપુરનો ત્રીજા વર્ષનો BCA વિદ્યાર્થી.",
+    "desc_2": "હું HTML, CSS, JavaScript, PHP, C, C#, Java, SQL માં નિપુણ થઈ રહ્યો છું અને Python ની શોધ શરૂ કરી રહ્યો છું.",
+    "highlight_languages": "ભાષાઓ", "highlight_year": "BCA વર્ષ",
+    "highlight_goal": "સ્ટેક ધ્યેય", "highlight_ai": "રસ",
+    "btn_learn_more": "મારા વિશે વધુ જાણો",
+    "goal_ai": "AI અને ML", "goal_fullstack": "ફુલ સ્ટેક ડેવ",
+    "goal_security": "સાઇબર સુરક્ષા", "goal_python": "Python", "goal_sql": "SQL અને DB"
+  },
+  "education": {
+    "section_tag": "શિક્ષણ", "section_title": "મારી શૈક્ષણિક", "section_title_highlight": "સફર",
+    "section_subtitle": "જે પાયો મારી તકનીકી કુશળતાને આકાર આપે છે",
+    "card_1_year": "2022 – વર્તમાન", "card_1_title": "શ્રીમતી બી. કે. મહેતા IT સેન્ટર",
+    "card_1_sub": "બેચલર ઓફ કોમ્પ્યુટર એપ્લિકેશન (BCA)",
+    "card_1_desc": "ત્રીજા વર્ષમાં, કોમ્પ્યુટર વિજ્ઞાનની મૂળ બાબતો, પ્રોગ્રામિંગ ભાષાઓ, ડેટાબેઝ મેનેજમેન્ટ અને આધુનિક વેબ ટેક્નોલોજીઓ શીખી રહ્યો છું.",
+    "card_1_badge": "પાલનપુર, ગુજરાત, ભારત",
+    "card_2_year": "2023 – 2024", "card_2_title": "બીજા વર્ષની સિદ્ધિઓ",
+    "card_2_sub": "કોર પ્રોગ્રામિંગ અને વેબ ડેવલપમેન્ટ",
+    "card_2_desc": "C, C#, Java પ્રોગ્રામિંગ શીખ્યું. PHP, MySQL, JavaScript સાથે વેબ એપ્લિકેશન બનાવ્યી.",
+    "card_2_badge": "પ્રોજેક્ટ: SMS, કેલ્ક્યુલેટર, CRUD",
+    "card_3_year": "2025 – ભવિષ્ય", "card_3_title": "ભવિષ્યનો શિક્ષણ રોડમેપ",
+    "card_3_sub": "AI, ML, ફુલ સ્ટેક અને સાઇબર સુરક્ષા",
+    "card_3_desc": "Python, AI, ML, ફુલ સ્ટેક ડેવલપમેન્ટ અને સાઇબર સુરક્ષામાં ઊંડા ઉતરવાની યોજના.",
+    "card_3_badge": "મોટા ધ્યેયો આગળ છે!"
+  },
+  "skills": {
+    "section_tag": "કૌશલ્ય", "section_title": "મારો ટેકનિકલ", "section_title_highlight": "ખજાનો",
+    "section_subtitle": "ભાષાઓ અને ટેક્નોલોજીઓ જે સાથે હું રોજ કામ કરું છું",
+    "cat_web": "વેબ ટેક્નોલોજીઓ", "cat_programming": "પ્રોગ્રામિંગ ભાષાઓ", "cat_database": "ડેટાબેઝ અને અન્ય"
+  },
+  "journey": {
+    "section_tag": "સફર", "section_title": "મારો શિક્ષણ", "section_title_highlight": "રોડમેપ",
+    "section_subtitle": "વર્તમાન કૌશલ્ય અને ભવિષ્યના ટેક્નોલોજી ધ્યેયો",
+    "html_title": "HTML5 અને CSS3", "html_status": "વર્તમાન", "html_desc": "આધુનિક HTML5 અને CSS3 સાથે રિસ્પોન્સિવ વેબ લેઆઉટ બનાવવું.",
+    "js_title": "JavaScript", "js_status": "વર્તમાન", "js_desc": "ES6+ ફીચર્સ, DOM, async programming અને ઇન્ટરેક્ટિવ વેબ એપ.",
+    "php_title": "PHP અને MySQL", "php_status": "વર્તમાન", "php_desc": "PHP સાથે સર્વર-સાઇડ ડેવલપમેન્ટ અને MySQL ડેટાબેઝ.",
+    "python_title": "Python", "python_status": "શીખી રહ્યો છું", "python_desc": "ઓટોમેશન, ડેટા અને AI/ML ગેટવે તરીકે Python.",
+    "ai_title": "આર્ટિફિશિયલ ઇન્ટેલિજન્સ", "ai_status": "ભવિષ્યનો ધ્યેય", "ai_desc": "ન્યુરલ નેટવર્ક, ડીપ લર્નિંગ, NLP.",
+    "ml_title": "મશીન લર્નિંગ", "ml_status": "ભવિષ્યનો ધ્યેય", "ml_desc": "ડેટામાંથી શીખતી બુદ્ધિમાન સિસ્ટમ.",
+    "security_title": "સાઇબર સુરક્ષા", "security_status": "ભવિષ્યનો ધ્યેય", "security_desc": "એથિકલ હેકિંગ, નેટવર્ક સુરક્ષા.",
+    "fullstack_title": "ફુલ સ્ટેક ડેવલપમેન્ટ", "fullstack_status": "અંતિમ ધ્યેય", "fullstack_desc": "ફ્રન્ટ-એન્ડ અને બેક-એન્ડ બંનેમાં નિષ્ણાત."
+  },
+  "projects": {
+    "section_tag": "મારું કામ", "page_title": "પ્રોજેક્ટ", "page_sub": "વાસ્તવિક વસ્તુઓ બનાવવી, વાસ્તવિક કૌશલ્ય શીખવું",
+    "filter_all": "બધા પ્રોજેક્ટ", "filter_web": "વેબ ડેવ", "filter_software": "સોફ્ટવેર", "filter_featured": "ફીચર્ડ",
+    "btn_github": "GitHub", "btn_demo": "લાઇવ ડેમો",
+    "more_text": "મારા GitHub પ્રોફાઇલ પર વધુ પ્રોજેક્ટ", "btn_view_github": "GitHub પર બધા જુઓ"
+  },
+  "cta": {
+    "title": "સાથે મળીને કંઈક", "title_highlight": "અદ્ભુત બનાવીએ",
+    "subtitle": "ભલે સહયોગી, મેન્ટર અથવા ફક્ત જોડાવા માંગો — હું હંમેશા ઉત્સાહી છું!",
+    "btn_contact": "સંપર્ક કરો", "btn_github": "GitHub જુઓ"
+  },
+  "contact": {
+    "section_tag": "સંપર્ક કરો", "page_title": "મારો સંપર્ક", "page_sub": "ચાલો જોડાઈએ અને સાથે કંઈક અદ્ભુત બનાવીએ",
+    "info_title": "વાર્તાલાપ શરૂ કરો!", "info_desc": "ડેવલપર્સ, ટેક ઉત્સાહી, સહયોગીઓ અને મેન્ટર્સ સાથે જોડાવા ઉત્સુક.",
+    "label_email": "ઇમેઇલ", "label_location": "સ્થળ", "label_college": "કોલેજ",
+    "label_github": "GitHub", "label_linkedin": "LinkedIn", "label_social": "સોશ્યલ મીડિયા",
+    "response_time": "જવાબ સમય: સામાન્ય રીતે 24-48 કલાકની અંદર",
+    "form_title": "મને સંદેશ મોકલો",
+    "field_name": "પૂરું નામ", "field_name_ph": "ધ્રુવ પ્રજાપતિ",
+    "field_email": "ઇમેઇલ સરનામું", "field_email_ph": "you@example.com",
+    "field_subject": "વિષય", "field_subject_ph": "વિષય પસંદ કરો...",
+    "field_message": "સંદેશ", "field_message_ph": "નમસ્તે ધ્રુવ! હું જોડાવા માંગું છું...",
+    "btn_send": "સંદેશ મોકલો",
+    "opt_collab": "પ્રોજેક્ટ સહયોગ", "opt_internship": "ઇન્ટર્નશિપ",
+    "opt_technical": "ટેકનિકલ પ્રશ્ન", "opt_mentor": "મેન્ટરશિપ", "opt_general": "સામાન્ય", "opt_other": "અન્ય",
+    "success_title": "સંદેશ મોકલ્યો! 🎉",
+    "success_sub": "સંપર્ક કરવા બદલ આભાર. હું જલ્દી જ જવાબ આપીશ.",
+    "success_btn": "બિલ્કુલ, આભાર!",
+    "err_name": "કૃપા કરીને તમારું પૂરું નામ દાખલ કરો.",
+    "err_email": "કૃપા કરીને માન્ય ઇમેઇલ સરનામું દાખલ કરો.",
+    "err_subject": "કૃપા કરીને વિષય પસંદ કરો.",
+    "err_message": "સંદેશ ઓછામાં ઓછા 10 અક્ષરોનો હોવો જોઈએ.",
+    "err_network": "નેટવર્ક ભૂલ. કૃપા ફરી પ્રયાસ કરો.",
+    "sending": "મોકલી રહ્યો છું..."
+  },
+  "resume": {
+    "section_tag": "રેઝ્યૂમે", "page_title": "મારો રેઝ્યૂમે", "page_sub": "મારી શૈક્ષણિક સફર અને કૌશલ્યની ઝલક",
+    "download_title": "મારો રેઝ્યૂમે ડાઉનલોડ કરો",
+    "download_desc": "શિક્ષણ, ટેકનિકલ કૌશલ્ય, પ્રોજેક્ટ અને કારકિર્દી ઉદ્દેશ્યોની વ્યાપક ઝાંખી.",
+    "btn_pdf": "PDF ડાઉનલોડ", "btn_email": "ઇમેઇલ દ્વારા વિનંતી",
+    "preview_tag": "પૂર્વાવલોકન", "preview_title": "રેઝ્યૂમે", "preview_title_highlight": "ઝાંખી",
+    "btn_download_bottom": "સંપૂર્ણ રેઝ્યૂમે ડાઉનલોડ (PDF)"
+  },
+  "footer": {
+    "tagline": "ત્રીજા વર્ષ BCA વિદ્યાર્થી | ભવિષ્યના ફુલ સ્ટેક ડેવલપર",
+    "desc": "સ્વચ્છ કોડ અને સર્જનાત્મક ડિઝાઇન સાથે અદ્ભુત ડિજિટલ અનુભવ બનાવવાનો જુસ્સો. ગુજરાત, ભારત.",
+    "quick_links": "ઝડપી લિંક", "tech_stack": "ટેક સ્ટેક", "get_in_touch": "સંપર્ક",
+    "send_message": "સંદેશ મોકલો", "copyright": "ગુજરાત, ભારતમાં ❤️ અને 💻 સાથે બનાવ્યું."
+  },
+  "loader": { "text": "પોર્ટફોલિયો લોડ થઈ રહ્યો છે..." }
+}
